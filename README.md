@@ -1,0 +1,5 @@
+- 👋 Olá, eu sou Pedro Marques Correa Domingues
+- 👀 Sou apaixonado em aprender coisas novas e trabalhar em lugares que me ajudem a melhorar na minha área de estudo
+- 🌱 Atualmente estou cursando Ciência da Computação na Unisagrado
+- 📫 Contato: pedromarquescd@gmail.com or pedromarquesmcd@hotmail.com
+- 😄 Pronomes: Ele/ dele
