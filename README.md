@@ -4,7 +4,7 @@
 
 Olá, eu sou o Pedro, um estudante apaixonado por **tecnologia e inovação**, e aqui compartilharei alguns projetos pessoais e trabalhos da faculdade.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/pedro-domingues-126192276/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-domingues-126192276/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedromarquescd@gmail.com)
 ---
 ## 🤖 Linguagens e Tecnologias
