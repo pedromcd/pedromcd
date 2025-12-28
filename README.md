@@ -17,6 +17,5 @@ Olá, eu sou o Pedro, um estudante apaixonado por **tecnologia e inovação**, e
 
 ---
 ## 📊 Estatísticas
-| ![Pedro GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedromcd&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromcd&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
+| ![Pedro GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedromcd&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromcd&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
 | --- | --- |
