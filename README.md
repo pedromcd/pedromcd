@@ -22,8 +22,8 @@ AI-assisted nutrition platform built with React, TypeScript, Firebase, and the G
 ### [AI Leads CRM](https://github.com/pedromcd/ai-leads-crm)
 End-to-end AI workflow for lead qualification using FastAPI, n8n, OpenRouter, and SQLite. The pipeline classifies intent, assigns priority and scores, generates suggested replies, and persists structured outputs.
 
-### [Facial Recognition Access Control](https://github.com/pedromcd/Controle-de-acesso-por-reconhecimento-facial)
-Computer vision project using Python, OpenCV, InsightFace/ArcFace, ONNX Runtime, and SQLite for real-time identity matching and access control.
+### [Facial Time Attendance System](https://github.com/pedromcd/Ponto)
+Web-based time attendance system built with Python, FastAPI, InsightFace, and SQLite. It combines facial recognition with employee management, daily attendance records, period closing, manual corrections, and Excel/CSV exports.
 
 ## Experience highlights
 
