@@ -1,21 +1,57 @@
+# Pedro Marques Correa Domingues
 
-# 👾 Pedro Marques Correa Domingues
-**Seja bem-vindo ao meu perfil!**
+**Computer Science undergraduate | AI systems, software development, and automation**
 
-Olá, eu sou o Pedro, um estudante apaixonado por **tecnologia e inovação**, e aqui compartilharei alguns projetos pessoais e trabalhos da faculdade.
+I am completing a B.Sc. in Computer Science in Brazil (expected December 2026) and building experience at the intersection of software engineering and applied AI. My professional work has included production RAG pipelines and knowledge bases, LLM evaluation and testing, AI integration into software applications, Python automation, and full-stack development.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-domingues-126192276/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedromarquescd@gmail.com)
----
-## 🤖 Linguagens e Tecnologias
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<br/>
+I am especially interested in graduate study and applied research involving reliable AI systems.
 
----
-## 📊 Estatísticas
-| ![Pedro GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedromcd&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromcd&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
-| --- | --- |
+## Research interests
+
+- Information Retrieval and Retrieval-Augmented Generation (RAG)
+- Natural Language Processing and LLM-based systems
+- Machine Learning and model evaluation
+- Intelligent Software Systems
+- AI-assisted software engineering
+
+## Selected projects
+
+### [NutriAI](https://github.com/pedromcd/NutriAI)
+AI-assisted nutrition platform built with React, TypeScript, Firebase, and the Gemini API. It combines user profiles, structured application data, and generative AI to produce personalized meal-planning and recipe experiences.
+
+### [AI Leads CRM](https://github.com/pedromcd/ai-leads-crm)
+End-to-end AI workflow for lead qualification using FastAPI, n8n, OpenRouter, and SQLite. The pipeline classifies intent, assigns priority and scores, generates suggested replies, and persists structured outputs.
+
+### [Facial Recognition Access Control](https://github.com/pedromcd/Controle-de-acesso-por-reconhecimento-facial)
+Computer vision project using Python, OpenCV, InsightFace/ArcFace, ONNX Runtime, and SQLite for real-time identity matching and access control.
+
+## Experience highlights
+
+- Worked with production RAG systems, including knowledge-base maintenance, model testing, and AI integration into support software.
+- Evaluated and refined generative-AI outputs and AI-generated code in professional model-training projects.
+- Built Python automations for recurring operational workflows and data processing.
+- Developed full-stack web applications, APIs, database integrations, and Docker-based deployments.
+
+## Technologies
+
+**AI / Data:** RAG, LLM evaluation, prompt engineering, information retrieval concepts, Gemini, OpenRouter  
+**Backend / Automation:** Python, FastAPI, REST APIs, n8n, Docker  
+**Web:** JavaScript, React, HTML, CSS  
+**Data:** SQL, SQLite, MySQL, PostgreSQL  
+**Tools:** Git, GitHub, Postman, Chatwoot
+
+## Education
+
+**B.Sc. in Computer Science** — UNISAGRADO, Brazil  
+Expected completion: **December 2026**
+
+**Electromechanics Technician** — SENAI
+
+## Languages
+
+- Portuguese — Native
+- English — C2 / Fluent
+
+## Contact
+
+[Portfolio](https://pedromcd.github.io) · [LinkedIn](https://www.linkedin.com/in/pedro-domingues-/) · [Email](mailto:pedromarquesmcd@hotmail.com)
