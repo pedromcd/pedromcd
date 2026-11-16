@@ -1,3 +1,5 @@
+**English** | [Português](README.pt-BR.md)
+
 # Pedro Marques Correa Domingues
 
 **Computer Science undergraduate | AI systems, software development, and automation**
