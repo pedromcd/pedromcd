@@ -26,7 +26,6 @@ Desenvolvo aplicações web de ponta a ponta (APIs, bancos de dados, front-end e
 | Projeto | O que ele mostra | Stack |
 |---|---|---|
 | **[NutriAI](https://github.com/pedromcd/NutriAI)** | App de nutrição com IA (TCC). Desenvolvi a camada de IA: um proxy em Cloudflare Worker com **fallback Gemini → Groq → OpenRouter**, chaves de API no servidor, validação de JSON e prompts embasados em evidências | React, TypeScript, Firebase, Cloudflare Workers |
-| **[Jungle Wallet](https://github.com/pedromcd/jungle-wallet)** | Carteira de apostas feita como desafio técnico de back-end: saldo consistente sob concorrência, idempotência, ledger imutável, outbox/inbox, SQS, Keycloak e testes E2E com 3 réplicas | Go, PostgreSQL, SQS, Keycloak, Docker |
 | **[Margin](https://github.com/pedromcd/Margin)** | App de estudos em que a IA rascunha flashcards, mas **todo card precisa citar o trecho exato da fonte**, com validação no servidor e aprovação humana | React, Supabase (RLS), Vercel, OpenAI |
 | **[AI Leads CRM](https://github.com/pedromcd/ai-leads-crm)** | Pipeline de triagem de leads: o n8n envia os leads a um LLM, interpreta o JSON estruturado com fallbacks seguros e salva tudo por uma API com validação | n8n, FastAPI, OpenRouter, SQLite |
 | **[Ponto](https://github.com/pedromcd/Ponto)** | Sistema de controle de ponto com cálculo de horas, correções auditáveis, fechamento mensal, exportação Excel/CSV e CI | FastAPI, SQLite, Jinja2, pytest |

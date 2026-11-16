@@ -26,7 +26,6 @@ I build web applications end to end (APIs, databases, front-ends, and deployment
 | Project | What it shows | Stack |
 |---|---|---|
 | **[NutriAI](https://github.com/pedromcd/NutriAI)** | AI nutrition app (capstone). I built the AI layer: a Cloudflare Worker proxy with **Gemini → Groq → OpenRouter fallback**, server-side API keys, JSON validation, and evidence-grounded prompts | React, TypeScript, Firebase, Cloudflare Workers |
-| **[Jungle Wallet](https://github.com/pedromcd/jungle-wallet)** | Betting wallet built as a back-end technical challenge: consistent balances under concurrency, idempotency, immutable ledger, outbox/inbox, SQS, Keycloak, E2E tests with 3 replicas | Go, PostgreSQL, SQS, Keycloak, Docker |
 | **[Margin](https://github.com/pedromcd/Margin)** | Study app where AI drafts flashcards but **every card must cite the exact source passage**, validated on the server, with human approval | React, Supabase (RLS), Vercel, OpenAI |
 | **[AI Leads CRM](https://github.com/pedromcd/ai-leads-crm)** | Lead triage pipeline: n8n sends leads to an LLM, parses structured JSON with safe fallbacks, and stores them through a validated API | n8n, FastAPI, OpenRouter, SQLite |
 | **[Ponto](https://github.com/pedromcd/Ponto)** | Time-and-attendance system with hour calculation, auditable corrections, monthly closing, Excel/CSV export, and CI | FastAPI, SQLite, Jinja2, pytest |
