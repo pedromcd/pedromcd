@@ -1,59 +1,58 @@
 **English** | [Português](README.pt-BR.md)
 
-# Pedro Marques Correa Domingues
+# Hi, I'm Pedro 👋
 
-**Computer Science undergraduate | AI systems, software development, and automation**
+**Full-stack developer focused on Python back-end and applied AI** · Brazil 🇧🇷 · Fluent in English
 
-I am completing a B.Sc. in Computer Science in Brazil (expected December 2026) and building experience at the intersection of software engineering and applied AI. My professional work has included production RAG pipelines and knowledge bases, LLM evaluation and testing, AI integration into software applications, Python automation, and full-stack development.
+I build web applications end to end (APIs, databases, front-ends, and deployment) and integrate LLMs into real products: RAG, structured outputs, provider fallback, and automation workflows. I am currently a **remote full-stack development intern at Voushify**, a U.S. company, and I graduate in Computer Science in **December 2026**.
 
-I am especially interested in graduate study and applied research involving reliable AI systems.
+🎯 **Open to junior full-stack, back-end, and AI/automation roles**, remote (Brazil or international).
 
-## Research interests
+---
 
-- Information Retrieval and Retrieval-Augmented Generation (RAG)
-- Natural Language Processing and LLM-based systems
-- Machine Learning and model evaluation
-- Intelligent Software Systems
-- AI-assisted software engineering
+## 💼 Experience
 
-## Selected projects
+| Role | Company | What I do / did |
+|---|---|---|
+| **Full Stack Development Intern** · Sep 2026 – present · Remote | Voushify (U.S.) | SaaS features with Python, FastAPI, PostgreSQL, React, TypeScript, and Docker; REST APIs, authentication, access control, and background jobs with Redis/Celery |
+| **IT Support Technician** · Mar – Aug 2026 | Vigos Soluções em Telecomunicações | Maintained a production **RAG** solution (knowledge base, model testing) and integrated AI assistants with Chatwoot; help desk and network support |
+| **Generative AI Training & Evaluation** · Jul – Nov 2025 · Remote | Outlier | Reviewed and debugged AI-generated code and evaluated model responses for correctness |
+| **Digital Solutions Intern → Assistant** · Jul 2024 – Mar 2025 | Paschoalotto | Python automation and RPA for data extraction and spreadsheet processing; campaign performance tracking |
 
-### [NutriAI](https://github.com/pedromcd/NutriAI)
-AI-assisted nutrition platform built with React, TypeScript, Firebase, and the Gemini API. It combines user profiles, structured application data, and generative AI to produce personalized meal-planning and recipe experiences.
+---
 
-### [AI Leads CRM](https://github.com/pedromcd/ai-leads-crm)
-End-to-end AI workflow for lead qualification using FastAPI, n8n, OpenRouter, and SQLite. The pipeline classifies intent, assigns priority and scores, generates suggested replies, and persists structured outputs.
+## 🚀 Featured projects
 
-### [Facial Time Attendance System](https://github.com/pedromcd/Ponto)
-Web-based time attendance system built with Python, FastAPI, InsightFace, and SQLite. It combines facial recognition with employee management, daily attendance records, period closing, manual corrections, and Excel/CSV exports.
+| Project | What it shows | Stack |
+|---|---|---|
+| **[NutriAI](https://github.com/pedromcd/NutriAI)** | AI nutrition app (capstone). I built the AI layer: a Cloudflare Worker proxy with **Gemini → Groq → OpenRouter fallback**, server-side API keys, JSON validation, and evidence-grounded prompts | React, TypeScript, Firebase, Cloudflare Workers |
+| **[Jungle Wallet](https://github.com/pedromcd/jungle-wallet)** | Betting wallet built as a back-end technical challenge: consistent balances under concurrency, idempotency, immutable ledger, outbox/inbox, SQS, Keycloak, E2E tests with 3 replicas | Go, PostgreSQL, SQS, Keycloak, Docker |
+| **[Margin](https://github.com/pedromcd/Margin)** | Study app where AI drafts flashcards but **every card must cite the exact source passage**, validated on the server, with human approval | React, Supabase (RLS), Vercel, OpenAI |
+| **[AI Leads CRM](https://github.com/pedromcd/ai-leads-crm)** | Lead triage pipeline: n8n sends leads to an LLM, parses structured JSON with safe fallbacks, and stores them through a validated API | n8n, FastAPI, OpenRouter, SQLite |
+| **[Ponto](https://github.com/pedromcd/Ponto)** | Time-and-attendance system with hour calculation, auditable corrections, monthly closing, Excel/CSV export, and CI | FastAPI, SQLite, Jinja2, pytest |
+| **[Only One Is True](https://github.com/pedromcd/only_one_is_true)** | Real-time multiplayer quiz (2–8 players) with server-authoritative state and compare-and-swap updates | TypeScript, Next.js, Cloudflare Workers, D1 |
 
-## Experience highlights
+---
 
-- Worked with production RAG systems, including knowledge-base maintenance, model testing, and AI integration into support software.
-- Evaluated and refined generative-AI outputs and AI-generated code in professional model-training projects.
-- Built Python automations for recurring operational workflows and data processing.
-- Developed full-stack web applications, APIs, database integrations, and Docker-based deployments.
+## 🛠️ Tech stack
 
-## Technologies
+**Back-end:** Python, FastAPI, Node.js/Express, Go · REST APIs · JWT/OAuth2 · Redis/Celery  
+**Front-end:** React, TypeScript, JavaScript, HTML, CSS, Tailwind  
+**Data:** PostgreSQL, SQLite, MySQL, Firebase/Firestore, Supabase  
+**AI:** LLM integration (Gemini, OpenAI, OpenRouter, Groq), RAG, prompt engineering, structured outputs, n8n  
+**DevOps / tools:** Docker, Git/GitHub, GitHub Actions, Cloudflare Workers, Vercel, Postman
 
-**AI / Data:** RAG, LLM evaluation, prompt engineering, information retrieval concepts, Gemini, OpenRouter  
-**Backend / Automation:** Python, FastAPI, REST APIs, n8n, Docker  
-**Web:** JavaScript, React, HTML, CSS  
-**Data:** SQL, SQLite, MySQL, PostgreSQL  
-**Tools:** Git, GitHub, Postman, Chatwoot
+---
 
-## Education
+## 🎓 Education
 
-**B.Sc. in Computer Science** — UNISAGRADO, Brazil  
-Expected completion: **December 2026**
-
+**B.Sc. in Computer Science** — UNISAGRADO, Brazil · graduating December 2026  
 **Electromechanics Technician** — SENAI
 
-## Languages
+## 🌎 Languages
 
-- Portuguese — Native
-- English — C2 / Fluent
+Portuguese (native) · English (fluent)
 
-## Contact
+## 📫 Contact
 
-[Portfolio](https://pedromcd.github.io) · [LinkedIn](https://www.linkedin.com/in/pedro-domingues-/) · [Email](mailto:pedromarquesmcd@hotmail.com)
+[LinkedIn](https://www.linkedin.com/in/pedro-domingues-/) · [Portfolio](https://pedromcd.github.io) · [Email](mailto:pedromarquesmcd@hotmail.com)

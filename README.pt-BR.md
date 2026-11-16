@@ -1,59 +1,58 @@
 [English](README.md) | **Português**
 
-# Pedro Marques Correa Domingues
+# Oi, eu sou o Pedro 👋
 
-**Graduando em Ciência da Computação | Sistemas de IA, desenvolvimento de software e automação**
+**Desenvolvedor full stack com foco em back-end Python e IA aplicada** · Brasil 🇧🇷 · Inglês fluente
 
-Estou concluindo o bacharelado em Ciência da Computação no Brasil (previsão: dezembro de 2026) e construindo experiência na interseção entre engenharia de software e IA aplicada. Minha atuação profissional inclui pipelines de RAG e bases de conhecimento em produção, avaliação e testes de LLMs, integração de IA em aplicações de software, automação com Python e desenvolvimento full stack.
+Desenvolvo aplicações web de ponta a ponta (APIs, bancos de dados, front-end e deploy) e integro LLMs em produtos reais: RAG, saídas estruturadas, fallback entre provedores e fluxos de automação. Hoje sou **estagiário de desenvolvimento full stack, remoto, na Voushify**, uma empresa americana, e me formo em Ciência da Computação em **dezembro de 2026**.
 
-Tenho interesse especial em pós-graduação e pesquisa aplicada envolvendo sistemas de IA confiáveis.
+🎯 **Aberto a vagas júnior de full stack, back-end e IA/automação**, remotas (Brasil ou exterior).
 
-## Interesses de pesquisa
+---
 
-- Recuperação de Informação e Retrieval-Augmented Generation (RAG)
-- Processamento de Linguagem Natural e sistemas baseados em LLMs
-- Machine Learning e avaliação de modelos
-- Sistemas de Software Inteligentes
-- Engenharia de software assistida por IA
+## 💼 Experiência
 
-## Projetos em destaque
+| Cargo | Empresa | O que faço / fiz |
+|---|---|---|
+| **Estagiário de Desenvolvimento Full Stack** · set. 2026 – atual · Remoto | Voushify (EUA) | Funcionalidades de uma plataforma SaaS com Python, FastAPI, PostgreSQL, React, TypeScript e Docker; APIs REST, autenticação, controle de acesso e tarefas em segundo plano com Redis/Celery |
+| **Técnico de Suporte em TI** · mar. – ago. 2026 | Vigos Soluções em Telecomunicações | Manutenção de uma solução de **RAG** em produção (base de conhecimento, testes de modelos) e integração de assistentes de IA com o Chatwoot; help desk e suporte de redes |
+| **Treinamento e Avaliação de IA Generativa** · jul. – nov. 2025 · Remoto | Outlier | Revisão e depuração de código gerado por IA e avaliação da correção das respostas dos modelos |
+| **Estagiário → Assistente de Soluções Digitais** · jul. 2024 – mar. 2025 | Paschoalotto | Automação com Python e RPA para extração de dados e processamento de planilhas; acompanhamento de indicadores de campanhas |
 
-### [NutriAI](https://github.com/pedromcd/NutriAI)
-Plataforma de nutrição assistida por IA, construída com React, TypeScript, Firebase e a API do Gemini. Combina perfis de usuário, dados estruturados da aplicação e IA generativa para oferecer planos alimentares e receitas personalizados.
+---
 
-### [AI Leads CRM](https://github.com/pedromcd/ai-leads-crm)
-Fluxo de IA de ponta a ponta para qualificação de leads, usando FastAPI, n8n, OpenRouter e SQLite. O pipeline classifica a intenção, atribui prioridade e pontuação, gera sugestões de resposta e persiste as saídas estruturadas.
+## 🚀 Projetos em destaque
 
-### [Sistema de Ponto com Reconhecimento Facial](https://github.com/pedromcd/Ponto)
-Sistema web de controle de ponto construído com Python, FastAPI, InsightFace e SQLite. Combina reconhecimento facial com gestão de funcionários, registros diários de presença, fechamento de período, correções manuais e exportação para Excel/CSV.
+| Projeto | O que ele mostra | Stack |
+|---|---|---|
+| **[NutriAI](https://github.com/pedromcd/NutriAI)** | App de nutrição com IA (TCC). Desenvolvi a camada de IA: um proxy em Cloudflare Worker com **fallback Gemini → Groq → OpenRouter**, chaves de API no servidor, validação de JSON e prompts embasados em evidências | React, TypeScript, Firebase, Cloudflare Workers |
+| **[Jungle Wallet](https://github.com/pedromcd/jungle-wallet)** | Carteira de apostas feita como desafio técnico de back-end: saldo consistente sob concorrência, idempotência, ledger imutável, outbox/inbox, SQS, Keycloak e testes E2E com 3 réplicas | Go, PostgreSQL, SQS, Keycloak, Docker |
+| **[Margin](https://github.com/pedromcd/Margin)** | App de estudos em que a IA rascunha flashcards, mas **todo card precisa citar o trecho exato da fonte**, com validação no servidor e aprovação humana | React, Supabase (RLS), Vercel, OpenAI |
+| **[AI Leads CRM](https://github.com/pedromcd/ai-leads-crm)** | Pipeline de triagem de leads: o n8n envia os leads a um LLM, interpreta o JSON estruturado com fallbacks seguros e salva tudo por uma API com validação | n8n, FastAPI, OpenRouter, SQLite |
+| **[Ponto](https://github.com/pedromcd/Ponto)** | Sistema de controle de ponto com cálculo de horas, correções auditáveis, fechamento mensal, exportação Excel/CSV e CI | FastAPI, SQLite, Jinja2, pytest |
+| **[Only One Is True](https://github.com/pedromcd/only_one_is_true)** | Quiz multiplayer em tempo real (2 a 8 jogadores) com estado controlado pelo servidor e atualizações compare-and-swap | TypeScript, Next.js, Cloudflare Workers, D1 |
 
-## Destaques da experiência
+---
 
-- Trabalhei com sistemas de RAG em produção, incluindo manutenção da base de conhecimento, testes de modelos e integração de IA em software de atendimento.
-- Avaliei e refinei saídas de IA generativa e código gerado por IA em projetos profissionais de treinamento de modelos.
-- Desenvolvi automações em Python para fluxos operacionais recorrentes e processamento de dados.
-- Desenvolvi aplicações web full stack, APIs, integrações com bancos de dados e deploys baseados em Docker.
+## 🛠️ Tecnologias
 
-## Tecnologias
+**Back-end:** Python, FastAPI, Node.js/Express, Go · APIs REST · JWT/OAuth2 · Redis/Celery  
+**Front-end:** React, TypeScript, JavaScript, HTML, CSS, Tailwind  
+**Dados:** PostgreSQL, SQLite, MySQL, Firebase/Firestore, Supabase  
+**IA:** integração com LLMs (Gemini, OpenAI, OpenRouter, Groq), RAG, engenharia de prompts, saídas estruturadas, n8n  
+**DevOps / ferramentas:** Docker, Git/GitHub, GitHub Actions, Cloudflare Workers, Vercel, Postman
 
-**IA / Dados:** RAG, avaliação de LLMs, engenharia de prompts, conceitos de recuperação de informação, Gemini, OpenRouter  
-**Backend / Automação:** Python, FastAPI, APIs REST, n8n, Docker  
-**Web:** JavaScript, React, HTML, CSS  
-**Dados:** SQL, SQLite, MySQL, PostgreSQL  
-**Ferramentas:** Git, GitHub, Postman, Chatwoot
+---
 
-## Formação
+## 🎓 Formação
 
-**Bacharelado em Ciência da Computação** — UNISAGRADO, Brasil  
-Conclusão prevista: **dezembro de 2026**
-
+**Bacharelado em Ciência da Computação** — UNISAGRADO · conclusão em dezembro de 2026  
 **Técnico em Eletromecânica** — SENAI
 
-## Idiomas
+## 🌎 Idiomas
 
-- Português — Nativo
-- Inglês — C2 / Fluente
+Português (nativo) · Inglês (fluente)
 
-## Contato
+## 📫 Contato
 
-[Portfólio](https://pedromcd.github.io) · [LinkedIn](https://www.linkedin.com/in/pedro-domingues-/) · [E-mail](mailto:pedromarquesmcd@hotmail.com)
+[LinkedIn](https://www.linkedin.com/in/pedro-domingues-/) · [Portfólio](https://pedromcd.github.io) · [E-mail](mailto:pedromarquesmcd@hotmail.com)
